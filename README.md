@@ -1,10 +1,8 @@
-![Screenshot](https://raw.githubusercontent.com/vaccarov/YoutubeAppReact/master/screenshot.png)
-
 # Light Youtube Web Application with basics of React
-
-Show Video List
-Click on the list to load video
-Automatic search when user type
+![Screenshot](https://raw.githubusercontent.com/vaccarov/YoutubeAppReact/master/screenshot.png)
+Show Video List<br/>
+Click on the list to load video<br/>
+Automatic search when user type<br/>
   
 
 Original Git repo (Udemy Course)
